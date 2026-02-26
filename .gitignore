@@ -1,0 +1,8 @@
+# Node.js
+node_modules/
+
+# System Files
+.DS_Store
+
+# Environment Variables
+.env
